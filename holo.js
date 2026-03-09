@@ -64,6 +64,8 @@
         overlay.style.webkitMaskSize = '100% 100%';
         overlay.style.maskRepeat = 'no-repeat';
         overlay.style.webkitMaskRepeat = 'no-repeat';
+        overlay.style.maskMode = 'alpha';
+        overlay.style.webkitMaskMode = 'alpha';
       }
     }
 
